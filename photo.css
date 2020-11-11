@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+nav {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 2em;
+    margin: 2%;
+    padding-top: 0.2em;
+}
+
+nav, div {
+    text-align: center;
+}
+
+img {
+    width: 40%;
+    margin: 2%;
+}
