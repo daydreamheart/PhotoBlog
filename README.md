@@ -1,2 +1,2 @@
 # PhotoBlog
-Nothing special, just a simple photo blog.
+Nothing special, just a simple photo blog. 📷
